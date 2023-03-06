@@ -31,7 +31,5 @@ let app = new Vue({
         updateProduct(variantImage) {
             this.image = variantImage
         }
-
     }
-
 })
